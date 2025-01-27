@@ -24,12 +24,12 @@ The leadership team has exclusive access to the dashboard for analyzing data and
 
 ## 🚀 Recruitment Process Workflow
 
-### **L0 - 📚 Job Posting**
-- Manual process for posting job openings.
+### **L0 - 📚 Job Posting  🔎 Filter Profile**
+- Manual process for posting job openings and Shotlisting Candidates
 
-### **L1 - 🔎 Filter Profile**
+### **L1 - 🔎 Attitude Checking**
 - Profiles are filtered, and candidates are evaluated in a **📞 telephonic round** to check attitude.
-- Outcome: ✅ Selected / ❌ Rejected
+- Outcome: ✅ Selected / ❌ Rejectedd
 
 ### **L2 - 🔧 Technical Round**
 - Conduct technical interviews.
